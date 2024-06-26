@@ -1,0 +1,1113 @@
+.desktop-container {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.desktop-desktop {
+  width: 100%;
+  height: 4942px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(65, 65, 65, 1);
+}
+.desktop-frame3 {
+
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-rectangle7 {
+
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full viewport height */
+  overflow: hidden; /* Prevent overflow */
+}
+
+#video-bg {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%; /* Fill container width */
+  min-width: 100%; /* Ensure minimum width is 100% of container */
+  object-fit: cover; /* Crop video to cover container */
+}
+
+.desktop-survey-edgetext {
+  gap: 50px; /* Adjust the gap between flex items */
+  top: 20rem; /* Adjust positioning as needed */
+  width: 100%;
+  display: flex;
+  position: absolute; /* Keep it positioned as per your layout needs */
+  align-items: center;
+  justify-content: center; /* Center horizontally */
+  flex-direction: column; /* Stack items vertically */
+}
+
+.desktop-frame66 {
+  gap: 5rem; /* Adjust gap between nested flex items */
+  display: flex;
+  align-items: center;
+  flex-direction: column; /* Stack items vertically */
+}
+
+.desktop-group36 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  position: relative;
+}
+
+.desktop-vector02 {
+
+}
+
+.desktop-text {
+  color: rgba(65, 65, 65, 1);
+  font-size: 48px;
+  font-style: normal; /* Ensure correct font style property */
+  text-align: center;
+  font-family: 'Inria Sans', sans-serif; /* Adjust font family */
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop-component2 {
+
+}
+
+
+.desktop-text02 {
+  top: 6px;
+  left: 30px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+
+
+
+.top-bar {
+    display: flex; /* Use flexbox for main box */
+    flex-direction: horizontal; /* Arrange items horizontally */
+    align-items: center;
+    justify-content: space-between;
+    background-color: white; /* Optional: Background color */
+    padding: 10px; /* Optional: Add padding around items */
+    z-index: 10;
+    min-width: 100%;
+}
+
+
+
+.buttonsbox{
+  display: flex;
+  align-items: right;
+  gap: 2rem;
+}
+
+.desktop-group37 {
+  min-width: 100%;
+}
+.desktop-vector03 {
+  top: 0px;
+  min-width: 100%;
+}
+
+.desktop-frame74 {
+  gap: 26px;
+  top: 20px;
+  width: 100%;
+  position: absolute;
+  display: flex; /* Set display to flex */
+   justify-content: space-between; /* Distribute items evenly along the main axis */
+    align-items: center; /* Center items vertically */
+    padding: 10px; /* Optional: Add padding around the items */
+}
+.desktop-component5 {
+  min-width: 100%;
+  min-height: 100%;
+  display: flex; /* Set display to flex */
+  justify-content: space-between; /* Distribute items evenly along the main axis */
+  align-items: center; /* Center items vertically */
+  padding: 10px; /* Optional: Add padding around the items */
+}
+
+.desktop-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 356px;
+  height: 51px;
+  position: absolute;
+}
+.desktop-text04 {
+  top: 6px;
+  left: 30px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-frame68 {
+  gap: 26px;
+  width: 175px;
+  height: 51px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.desktop-component1 {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-component11 {
+  top: 0px;
+  left: 0px;
+  width: 175px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.desktop-text06 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 31.871232986450195px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-contact {
+  padding-left: 2rem;
+  background-color: white;
+  min-width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: left;
+  justify-content: space-between;
+  background-color: white; /* Optional: Background color */
+  z-index: 10;
+}
+
+.righsidecontact{
+  display: flex; /* Use flexbox for main box */
+  align-items: right;
+  flex-direction: horizontal;
+  justify-content: space-between;
+  padding: 10px; /* Optional: Add padding around items */
+  z-index: 10;
+  min-width: 100%;
+}
+
+
+
+.desktop-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 195px;
+  position: absolute;
+}
+.desktop-text08 {
+  top: 17px;
+  color: rgba(65, 65, 65, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text10 {
+  top: 83px;
+  color: rgba(65, 65, 65, 1);
+  width: 100%;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text14 {
+  top: 82px;
+  left: 1594px;
+  color: rgba(65, 65, 65, 1);
+  width: 283px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text15 {
+  text-decoration: NONE;
+}
+.desktop-text17 {
+  text-decoration: NONE;
+}
+.desktop-frame671 {
+  gap: 10px;
+  top: 21px;
+  left: 1601px;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-group371 {
+  width: 100%;
+  height: 56.56711959838867px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-vector05 {
+  top: 0px;
+  left: 169.50732421875px;
+  width: 44px;
+  height: 35px;
+  position: absolute;
+}
+.desktop-vector06 {
+  top: 7.297056674957275px;
+  left: 0px;
+  width: 100%;
+  height: 49px;
+  position: absolute;
+}
+.desktop-phones {
+  top: 2179px;
+  width: 100%;
+  height: 1222px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(176, 47, 54, 1);
+}
+.desktop-frame65 {
+  gap: 73px;
+  left: 59px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: horizontal;
+  justify-content: center;
+  flex: 1;
+}
+
+.emailbig{
+  color: rgba(255, 255, 255, 1);
+  font-size: 3rem;
+  text-align: left;
+  font-style: underline;
+  font-family: Inria Sans;
+}
+
+.desktop-group34 {
+  width: 50%;
+  height: 900.9668579101562px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 1;
+}
+
+.desktop-newphone1 {
+  width: 100%;
+  position: absolute;
+}
+.desktop-frame64 {
+  gap: 15px;
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop-text19 {
+  color: rgba(255, 255, 255, 1);
+  width: 856px;
+  height: auto;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+
+}
+.desktop-text21 {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  width: 730px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text22 {
+  font-weight: 400;
+  color:white;
+}
+.desktop-text24 {
+  font-weight: 400;
+}
+.desktop-text26 {
+  font-weight: 400;
+}
+.desktop-text27 {
+  font-weight: 700;
+}
+.desktop-text29 {
+  color: rgba(255, 255, 255, 1);
+  width: 730px;
+  height: auto;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.desktop-notable-users {
+  top: 3401px;
+  width: 100%;
+  min-width: 100%;
+  height: 1346px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(65, 65, 65, 1);
+}
+.desktop-frame82 {
+  gap: 90px;
+  top: 55px;
+  width: 1592px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-text31 {
+  color: rgba(255, 255, 255, 1);
+  width: 689px;
+  height: auto;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-frame27 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-frame33 {
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-frame75 {
+  top: 65.5041732788086px;
+  left: 151.73773193359375px;
+  width: 876px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-image15 {
+  width: 660px;
+  height: 431px;
+}
+.desktop-text33 {
+  color: rgba(0, 0, 0, 1);
+  width: 876px;
+  height: auto;
+  font-size: 48.89912796020508px;
+  font-style: italic;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-component3 {
+  width: 353.0906066894531px;
+  height: 65.72124481201172px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-component12 {
+  top: -0.0004398497985675931px;
+  left: 0.0002591963275335729px;
+  width: 353px;
+  height: 65.72124481201172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-rectangle61 {
+  top: -0.0004398497985675931px;
+  left: -0.0002290849224664271px;
+  width: 353px;
+  height: 66px;
+  position: absolute;
+}
+.desktop-text35 {
+  top: 9.019987106323242px;
+  left: 46.40638732910156px;
+  color: rgba(255, 255, 255, 1);
+  width: 259px;
+  height: auto;
+  position: absolute;
+  font-size: 41.0709228515625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-frame34 {
+  top: 0px;
+  left: 0px;
+  width: 83px;
+  height: 895.5000610351562px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text37 {
+  top: 784.3917236328125px;
+  left: 1.658333420753479px;
+  color: rgba(65, 65, 65, 1);
+  width: 710px;
+  height: auto;
+  position: absolute;
+  font-size: 26.533334732055664px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-line1 {
+  top: 43.94583511352539px;
+  left: 81.25833892822266px;
+  width: 820px;
+  height: 1px;
+  position: absolute;
+}
+.desktop-image18 {
+  top: 868.26708984375px;
+  left: 14.095833778381348px;
+  width: 57px;
+  height: 56px;
+  position: absolute;
+}
+.desktop-frame35 {
+  top: 0px;
+  left: 82.91667175292969px;
+  width: 83px;
+  height: 895.5000610351562px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text39 {
+  top: 784.3917236328125px;
+  left: 1.6585005521774292px;
+  color: rgba(65, 65, 65, 1);
+  width: 710px;
+  height: auto;
+  position: absolute;
+  font-size: 26.533334732055664px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-image151 {
+  top: 861.5042114257812px;
+  left: 12.437667846679688px;
+  width: 42px;
+  height: 58px;
+  position: absolute;
+}
+.desktop-line11 {
+  top: 43.94583511352539px;
+  left: 81.25850677490234px;
+  width: 820px;
+  height: 1px;
+  position: absolute;
+}
+.desktop-frame36 {
+  top: 0px;
+  left: 165.83334350585938px;
+  width: 83px;
+  height: 895.5000610351562px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text41 {
+  top: 784.3917236328125px;
+  left: 1.6581794023513794px;
+  color: rgba(65, 65, 65, 1);
+  width: 710px;
+  height: auto;
+  position: absolute;
+  font-size: 26.533334732055664px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-line12 {
+  top: 43.94583511352539px;
+  left: 81.25818634033203px;
+  width: 820px;
+  height: 1px;
+  position: absolute;
+}
+.desktop-image19 {
+  top: 870.6250610351562px;
+  left: 14.095680236816406px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}
+.desktop-frame37 {
+  top: 0px;
+  left: 248.75001525878906px;
+  width: 83px;
+  height: 895.5000610351562px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text43 {
+  top: 784.3917236328125px;
+  left: 1.6583465337753296px;
+  color: rgba(65, 65, 65, 1);
+  width: 710px;
+  height: auto;
+  position: absolute;
+  font-size: 26.533334732055664px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-line13 {
+  top: 43.94583511352539px;
+  left: 81.25835418701172px;
+  width: 820px;
+  height: 1px;
+  position: absolute;
+}
+.desktop-image20 {
+  top: 867.8104248046875px;
+  left: 15.754180908203125px;
+  width: 60px;
+  height: 51px;
+  position: absolute;
+}
+.desktop-frame38 {
+  top: 0px;
+  left: 331.66668701171875px;
+  width: 83px;
+  height: 895.5000610351562px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text45 {
+  top: 784.3917236328125px;
+  left: 1.6585136651992798px;
+  color: rgba(65, 65, 65, 1);
+  width: 710px;
+  height: auto;
+  position: absolute;
+  font-size: 26.533334732055664px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-line14 {
+  top: 43.94583511352539px;
+  left: 81.25851440429688px;
+  width: 820px;
+  height: 1px;
+  position: absolute;
+}
+.desktop-image5 {
+  top: 872.8323974609375px;
+  width: 100%;
+  height: 54px;
+  position: absolute;
+}
+.desktop-frame83 {
+  top: 1070px;
+  width: 100%;
+  height: 1132px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-text47 {
+  left: 5rem;
+  top: 91px;
+  color: rgba(65, 65, 65, 1);
+  width: 100vh;
+  height: auto;
+  position: absolute;
+  font-size: 5rem;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop-group31 {
+  /* Container styles */
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  padding: 20px; /* Padding around the container */
+}
+
+
+
+.desktop-group22 {
+  /* Flex container for image and text */
+  display: flex;
+  align-items: center; /* Align items vertically */
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
+
+.desktop-untitleddesign111 {
+  /* Styles for the SVG image */
+  width: 50%; /* Adjust width as needed */
+  margin-right: 20px; /* Spacing between image and text */
+}
+
+.textgrid {
+  flex: 1; /* Grow to take remaining space */
+}
+.smalltext {
+  /* Description text styles */
+  padding-top: 3rem;
+  font-size: 2rem; /* Example font size */
+  margin-top: 10px; /* Spacing between title and description */
+  font-family: Inria Sans;
+}
+
+
+
+.desktop-text49 {
+  color: rgba(0, 0, 0, 1);
+  width: 596px;
+  height: auto;
+  position: absolute;
+  font-size: 30.444276809692383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.desktop-frame43 {
+  gap: 20.468647003173828px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-group30 {
+  width: 241px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.desktop-ellipse7 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.desktop-group23 {
+  width: 241px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-vector07 {
+  width: 77px;
+  height: 75px;
+  position: absolute;
+}
+.desktop-text51 {
+  color: rgba(65, 65, 65, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 19.027673721313477px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.bigboxgrid{
+  padding-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+}
+.desktop-group29 {
+  width: 241px;
+  height: 199.9752655029297px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-ellipse8 {
+  top: 0.00016412814147770405px;
+  left: 20.569046020507812px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.desktop-group24 {
+  top: 43.42344665527344px;
+  left: 0.00003998284228146076px;
+  width: 240.88784790039062px;
+  height: 144.7589111328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-vector08 {
+  top: 0px;
+  left: 76.72140502929688px;
+  width: 87px;
+  height: 75px;
+  position: absolute;
+}
+.desktop-vector09 {
+  top: 20.002593994140625px;
+  left: 133.15036010742188px;
+  width: 15px;
+  height: 36px;
+  position: absolute;
+}
+.desktop-text53 {
+  top: 53.02353286743164px;
+  color: rgba(65, 65, 65, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 19.027673721313477px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-group28 {
+  width: 241px;
+  height: 199.9752655029297px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-ellipse9 {
+  top: 0px;
+  left: 20.568897247314453px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+
+}
+.desktop-group25 {
+  top: 33.70987319946289px;
+  left: 0px;
+  width: 240.88784790039062px;
+  height: 136.10743713378906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-text55 {
+  top: 64.83097076416016px;
+  color: rgba(65, 65, 65, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 19.027673721313477px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-vector10 {
+  top: 0px;
+  left: 93.05535888671875px;
+  width: 55px;
+  height: 69px;
+  position: absolute;
+}
+.desktop-group27 {
+  width: 241px;
+  height: 199.9752655029297px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-ellipse10 {
+  top: 0.00016412814147770405px;
+  left: 20.568824768066406px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+
+}
+.desktop-group26 {
+  top: 29.711082458496094px;
+  left: 0.0001076405169442296px;
+  width: 240.88784790039062px;
+  height: 140.0672607421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-vector11 {
+  top: 0.000145207392051816px;
+  left: 82.1783447265625px;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+}
+.desktop-text57 {
+  top: 72.75064086914062px;
+  left: 0.0001076405169442296px;
+  color: rgba(255, 255, 255, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 19.027673721313477px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text59 {
+  /* Title text styles */
+  font-size: 3rem; /* Example font size */
+  font-weight: bold;
+  font-style: Bold;
+  font-family: Inria Sans;
+}
+
+.bottom-bar {
+  background-color: white;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.bottom-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.textbox {
+  margin-bottom: 20px;
+  color: rgba(65, 65, 65, 1);
+  font-size: 2rem;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+}
+
+.text-box-title {
+  font-weight: bold;
+  color: rgba(65, 65, 65, 1);
+  font-size: 3rem;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+}
+
+.bottom-right {
+  position: absolute;
+  top: 50%;
+  right: 1rem;
+}
+
+.logo {
+  width: 100%; /* Adjust size as needed */
+}
